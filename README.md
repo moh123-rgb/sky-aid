@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 <br/><br/>
 
@@ -29,7 +29,7 @@
 ## 📖 Table of Contents
 
 - [The Problem We Solved](#-the-problem-we-solved)
-- [What is Aero Rescue?](#-what-is-aero-rescue)
+- [What is Sky Aid?](#-what-is-sky-aid-?)
 - [App Screenshots](#-app-screenshots)
 - [Core Features](#-core-features)
 - [Tech Stack](#️-tech-stack)
@@ -52,13 +52,13 @@ During floods, earthquakes, and other natural disasters in India, rescue teams f
 - ❌ **Poor weather intelligence** — Teams are unaware of conditions that affect rescue operations
 - ❌ **Manual report management** — Disaster reports are paper-based or scattered across channels
 
-**Aero Rescue eliminates all of these.** It creates a live, connected pipeline from the disaster site → the drone → the control room.
+**sky aid eliminates all of these.** It creates a live, connected pipeline from the disaster site → the drone → the control room.
 
 ---
 
-## 🚁 What is Aero Rescue?
+## 🚁 What is sky aid?
 
-Aero Rescue is an **Android-native disaster management application** purpose-built for government rescue authorities. It connects ground-level disaster reporters with drone operators and central control rooms through a single, unified platform.
+sky aid is an **Android-native disaster management application** purpose-built for government rescue authorities. It connects ground-level disaster reporters with drone operators and central control rooms through a single, unified platform.
 
 > Think of it as a **mission control system in your pocket** — where every disaster report triggers a coordinated drone response, in real time.
 
@@ -150,7 +150,7 @@ Aero Rescue is an **Android-native disaster management application** purpose-bui
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                      AERO RESCUE APP                         │
+│                      sky aid APP                         │
 │                                                             │
 │  ┌──────────┐    ┌──────────────┐    ┌──────────────────┐  │
 │  │  Compose │───▶│  ViewModel   │───▶│   Repository     │  │
@@ -331,7 +331,7 @@ cd AERO-RESCUUE/DisasterManager2
 > **Winner — Smart India Hackathon (SIH)**
 > *Government Disaster Management Track*
 >
-> Aero Rescue was recognized for its innovative approach to combining drone technology with a mobile-first government platform, enabling faster disaster response through real-time coordination.
+> sky aid was recognized for its innovative approach to combining drone technology with a mobile-first government platform, enabling faster disaster response through real-time coordination.
 
 ---
 
