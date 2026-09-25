@@ -315,29 +315,15 @@ cd AERO-RESCUUE/DisasterManager2
 
 ---
 
-## 👨‍💻 Team
 
-**Vaibhav Chouksey** — Android Developer & Project Lead
-- Built the complete Android application
-- Integrated Firebase, Mapbox, and drone dispatch pipeline
-- Designed MVVM architecture with Hilt DI
 
-📧 vaibhavchouksey07@gmail.com
 
----
-
-## 🏆 Achievement
-
-> **Winner — Smart India Hackathon (SIH)**
-> *Government Disaster Management Track*
->
-> sky aid was recognized for its innovative approach to combining drone technology with a mobile-first government platform, enabling faster disaster response through real-time coordination.
 
 ---
 
 ## 📄 License
 
-This project was developed for the Smart India Hackathon and academic purposes.
+This project is developed for the Smart India Hackathon and academic purposes.
 
 ---
 
