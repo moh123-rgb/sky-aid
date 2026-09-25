@@ -10,10 +10,10 @@
 
 
 
-# 🚁 AERO RESCUE
-### *Drone-Powered Disaster Management & Emergency Response Platform*
+# 🚁 sky aid
+### 
 
-**🏆 Smart India Hackathon Winner — PSID 25047**
+
 
 *A real-time Android application enabling government rescue teams to coordinate drone-assisted emergency operations during natural disasters*
 
