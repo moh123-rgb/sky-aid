@@ -190,7 +190,7 @@ sky aid is an **Android-native disaster management application** purpose-built f
 ## 📁 Project Structure
 
 ```
-AERO-RESCUUE/
+Sky aid/
 └── DisasterManager2/
     ├── app/
     │   ├── src/main/java/.../
@@ -252,8 +252,7 @@ AERO-RESCUUE/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vaibhav-chouksey/AERO-RESCUUE.git
-cd AERO-RESCUUE/DisasterManager2
+
 
 # 2. Open in Android Studio
 # File → Open → select the DisasterManager2 folder
