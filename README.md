@@ -9,7 +9,7 @@
 
 
 
-# 🚁 sky aid
+# sky aid
 ### 
 
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 🆘 The Problem We Solved
+## The Problem We Solved
 
 During floods, earthquakes, and other natural disasters in India, rescue teams face critical challenges:
 
@@ -56,7 +56,7 @@ During floods, earthquakes, and other natural disasters in India, rescue teams f
 
 ---
 
-## 🚁 What is sky aid?
+##  What is sky aid?
 
 sky aid is an **Android-native disaster management application** purpose-built for government rescue authorities. It connects ground-level disaster reporters with drone operators and central control rooms through a single, unified platform.
 
@@ -64,17 +64,17 @@ sky aid is an **Android-native disaster management application** purpose-built f
 
 **Built for:** Government disaster management departments, NDRF teams, municipal emergency response units
 
-## 📱 App Screenshots
+## App Screenshots
 
 <table style="width:100%">
   <tr>
     <td align="center" width="50%">
-      <strong>🏠 Home Dashboard</strong><br/>
+      <strong>Home Dashboard</strong><br/>
       <img src="Screenshots/home.png" width="300pt"/><br/>
       <i>Personalized control panel</i>
     </td>
     <td align="center" width="50%">
-      <strong>📋 Report Details</strong><br/>
+      <strong>Report Details</strong><br/>
       <img src="Screenshots/report.png" width="300pt"/><br/>
       <i>Full situational report</i>
     </td>
@@ -86,49 +86,49 @@ sky aid is an **Android-native disaster management application** purpose-built f
       <i>Real-time Mapbox overlays</i>
     </td>
     <td align="center" width="50%">
-      <strong>👤 User Profile</strong><br/>
+      <strong> User Profile</strong><br/>
       <img src="Screenshots/profile.png" width="300pt"/><br/>
       <i>Personnel management</i>
     </td>
   </tr>
 </table>
-## ✨ Core Features
+##  Core Features
 
-### 🚨 Disaster Report Management
+###  Disaster Report Management
 - Submit and view structured disaster reports with report IDs (e.g. `REP-2025-001`)
 - Each report captures: description, GPS coordinates, estimated people count, and resource needs
 - Timestamped entries for chronological mission tracking
 - Reports feed directly into the control room action pipeline
 
-### 🛸 Drone Dispatch & Tracking
+###  Drone Dispatch & Tracking
 - **One-tap drone dispatch** — "Dispatch Drone" button sends GPS coordinates to control room
 - **Real-time drone location** pulled from Firebase Realtime Database
 - Live mission status indicator: *Locating Drone... → En Route → On Site*
 - Drone position overlaid on interactive map
 
-### 🗺️ Interactive Mission Map (Mapbox)
+###  Interactive Mission Map (Mapbox)
 - Custom Mapbox GL map with live overlays
 - Help Center pinned with labeled marker
 - Drone position updates in real time via Firebase
 - User's current GPS location with re-center button
 
-### 🌦️ Weather Intelligence
+###  Weather Intelligence
 - Dedicated weather screen for mission-area conditions
 - Helps rescue teams assess flyability and on-ground conditions
 
-### 📍 Location Services
+###  Location Services
 - Auto-detects and displays rescuer's current address using reverse geocoding
 - Location can be manually updated via "Update Location" button
 - Location stored in profile and shared with control room as needed
 
-### 👤 Rescue Personnel Profile
+###  Rescue Personnel Profile
 - Full profile management: name, email, phone, gender, address
 - Firebase Authentication for secure login
 - Sign-in/sign-out with credential management
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology | Purpose |
 |---|---|---|
@@ -146,7 +146,7 @@ sky aid is an **Android-native disaster management application** purpose-built f
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -224,7 +224,7 @@ Sky aid/
 
 ---
 
-## 🔌 APIs & Integrations
+##  APIs & Integrations
 
 | Service | Usage |
 |---|---|
@@ -238,7 +238,7 @@ Sky aid/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -271,7 +271,7 @@ Sky aid/
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 **End-to-end rescue flow in 4 steps:**
 
@@ -302,7 +302,7 @@ Sky aid/
 
 ---
 
-## 🔮 Roadmap
+##  Roadmap
 
 - [ ] Push notifications for new disaster reports
 - [ ] Offline mode with local report caching
